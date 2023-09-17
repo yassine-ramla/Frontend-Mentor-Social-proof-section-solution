@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub?share=true)
+- Live Site URL: [live site URL](https://yassine-ramla.github.io/Frontend-Mentor-Social-proof-section-solution/)
 
 ## My process
 

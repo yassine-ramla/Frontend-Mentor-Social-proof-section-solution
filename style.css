@@ -146,7 +146,9 @@ header>p {
   }
 
   main {
+    width: 75%;
     max-width: 1300px;
+    min-width: 900px;
     display: grid;
     gap: 60px 0;
     grid-template-columns: 2fr 3fr;
@@ -158,6 +160,7 @@ header>p {
   }
 
   header>h1 {
+    min-width: 300px;
     margin: 0 100px 20px 0;
     font-size: 3rem;
   }
